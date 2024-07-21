@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Prathmesh<br>👀 I’m interested in Data and Business Analysis, Frontend Web and App Development<br>🌱 I’m currently Interning as a Data Analyst and looking for jobs<br>💞️ I’m looking to collaborate on Data Analytics, Business Analytics and development Projects<br>📫 How to reach me - pratham1986@gmail.com
+👋 Hi, I’m Prathmesh<br>👀 I’m interested in Data and Business Analysis, Frontend Web and App Development<br>🌱 I’m looking to collaborate on Data Analytics and Business Analytics Projects<br>📫 How to reach me - pratham1986@gmail.com
 
 
 ## 🌐 Socials:
