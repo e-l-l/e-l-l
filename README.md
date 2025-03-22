@@ -24,7 +24,7 @@ I’m driven by a passion for solving problems and playing games! I’m excited 
 -->
 
 ### skills
-[![My Skills](https://skillicons.dev/icons?i=py,react,next,flutter,fastapi,js,react,cpp,html,css,notion,github,git,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cpp,py,ts,js,dart,html,css,latex,pytorch,tensorflow,opencv,fastapi,react,next,flutter,tailwind,postgres,mysql,redis,supabase,firebase,grafana,docker,postman,github,git,discord,bots,figma,notion)](https://skillicons.dev)
 
 <br>
 <!--
