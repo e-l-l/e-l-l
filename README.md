@@ -16,15 +16,15 @@
      My mission, because I'm a superhero!
 -->
 
-### Me
-I’m driven by a love for solving problems! With a technical background, I’ve always found my place in connecting people and working closely with businesses. My mission is to bridge connections, empower collaboration, and tackle real-world challenges that make a meaningful difference.
+### About me
+I’m driven by a passion for solving problems and playing games! I’m excited about bringing my skills in tech and data together with my love for gaming to build cool experiences, understand players better, and create stuff that makes games even more fun.
 
 <!--
      This is the list of my skills and tools I am studying!
 -->
 
 ### skills
-[![My Skills](https://skillicons.dev/icons?i=py,regex,github,git,mongodb,mysql,eclipse,java,spring,js,nodejs,react,express,jest,jenkins,cpp,cs,dotnet,html,css,bootstrap,pug,php,androidstudio,blender,ps,notion)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,github,git,mysql,js,react,cpp,cs,html,css,notion)](https://skillicons.dev)
 
 <br>
 <!--
