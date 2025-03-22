@@ -5,14 +5,6 @@
 </a>
 
 <!--
-    Your own Terminal GIF can be created here -> https://www.terminalgif.com
--->
-
-<div>
-    <img src="./assets/about_me.gif" alt="About Me Terminal GIF"/>
-</div>
-
-<!--
      My mission, because I'm a superhero!
 -->
 
