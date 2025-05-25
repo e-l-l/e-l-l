@@ -30,6 +30,9 @@ I’m driven by a passion for solving problems and playing games! I’m excited 
     </a>
 </div>
 
+### 🌐 Portfolio  
+Take a look at what I've been building!  
+👉 [**e-l-l.github.io/porfolio-ell**](https://e-l-l.github.io/porfolio-ell)
 <!--
      Oh, hello there, recruiters!
 -->
