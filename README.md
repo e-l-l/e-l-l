@@ -25,10 +25,14 @@ I’m driven by a passion for solving problems and playing games! I’m excited 
 
 ### Connect with me!
 <div>
-    <a href="https://www.linkedin.com/in/prathmeshGhatol/">
+    <a href="https://www.linkedin.com/in/prathmeshGhatol/" target="_blank" title="LinkedIn">
         <img src="https://github.com/user-attachments/assets/880aaea6-79b9-4058-b9b4-342391ca04ea" alt="LinkedIn" width="35" height="35"/>
     </a>
+    <a href="mailto:pratham1986@gmail.com" target="_blank" title="Email">
+        <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Gmail" width="35" height="35"/>
+    </a>
 </div>
+
 
 ### 🌐 Portfolio  
 Take a look at what I've been building!  
