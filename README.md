@@ -37,6 +37,7 @@ I’m driven by a passion for solving problems and playing games! I’m excited 
 ### 🌐 Portfolio  
 Take a look at what I've been building!  
 👉 [**e-l-l.github.io/porfolio-ell**](https://e-l-l.github.io/porfolio-ell)
+👉 [**uptell-dibc.vercel.app/**](https://uptell-dibc.vercel.app/)
 <!--
      Oh, hello there, recruiters!
 -->
