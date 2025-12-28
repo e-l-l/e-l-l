@@ -30,11 +30,8 @@ I’m driven by a passion for solving problems and playing games! I’m excited 
 </div>
 
 
-### 🌐 Portfolio  
-Take a look at what I've been building!  
+### 🌐 Portfolio   
 👉 [**e-l-l.github.io/porfolio-ell**](https://e-l-l.github.io/porfolio-ell)
-
-👉 [**uptell-dibc.vercel.app/**](https://uptell-dibc.vercel.app/)
 
 ### Employer?
 > [!IMPORTANT]  
