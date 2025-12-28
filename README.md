@@ -31,7 +31,7 @@ I’m driven by a passion for solving problems and playing games! I’m excited 
 
 
 ### 🌐 Portfolio   
-👉 [**e-l-l.github.io/porfolio-ell**](https://e-l-l.github.io/porfolio-ell)
+👉 [**e-l-l.github.io/porfolio-ell**]([https://e-l-l.github.io/porfolio-ell](https://e-l-l.github.io/portfolio-ell/))
 
 ### Employer?
 > [!IMPORTANT]  
