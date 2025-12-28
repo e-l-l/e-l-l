@@ -39,16 +39,9 @@ Take a look at what I've been building!
 👉 [**e-l-l.github.io/porfolio-ell**](https://e-l-l.github.io/porfolio-ell)
 
 👉 [**uptell-dibc.vercel.app/**](https://uptell-dibc.vercel.app/)
-<!--
-     Oh, hello there, recruiters!
--->
 
 ### Employer?
 > [!IMPORTANT]  
-> <a href="[https://1drv.ms/b/c/be8f8c692eae21a1/EQvMaX1zvjdFt-K_ldJkR58BLcuVhOZ4i2uuzbcDz704HA?e=g7Na94](https://1drv.ms/b/c/be8f8c692eae21a1/IQCC9ndvEmIvRJAU5iBReNbmAZFvVEK4bHbvVN2JoTG4gO4?e=bbBMXf)" download>Download my resume</a>
+> <a href="https://1drv.ms/b/c/be8f8c692eae21a1/IQCC9ndvEmIvRJAU5iBReNbmAZFvVEK4bHbvVN2JoTG4gO4?e=bbBMXf">Download my resume</a>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
-
-<!--
-     Thanks for being my guest <3
--->
